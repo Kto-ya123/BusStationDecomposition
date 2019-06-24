@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560931529 source:/home/ITRANSITION.CORP/a.luzgin/example/BusStationDecomposition/main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+
+1560933646 source:/home/ITRANSITION.CORP/a.luzgin/example/BusStationDecomposition/startFunction.cpp
+	<string>
+	<iostream>
+	<cassert>
+	<vector>
+	<map>
+
